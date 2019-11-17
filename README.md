@@ -1,2 +1,2 @@
 # JavaCowsBullsGame
-![cows_bulls.png]
+![JavaCowsBullsGame](cows_bulls.png)
