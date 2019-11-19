@@ -1,3 +1,6 @@
 # This is the project's README file
 
-### replace me with important information
+## __Files__:
+ 	
+ - CowsBullsGame.java
+ - CowsBullsGame_main.java
