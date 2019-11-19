@@ -12,7 +12,7 @@
 
 ### [__Link to my PROFILE__](https://github.com/Sima-D)
 
-![:octocat:](https://github.com/Sima-D/JavaProgramming/blob/master/octocat.png)
+![My octocat](https://github.com/Sima-D/JavaProgramming/blob/master/octocat.png)
  
  
  
