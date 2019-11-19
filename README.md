@@ -1,6 +1,6 @@
 # This is the project's README file
 
-## __Projects__:
+## __My Java Projects__:
  	
  - **Cows_Bulls_Game**
  - **Card_War_Game**
