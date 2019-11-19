@@ -11,6 +11,8 @@
 ### [__Link to whole Java repository__](https://github.com/Sima-D/JavaProgramming)
 
 ### [__Link to my PROFILE__](https://github.com/Sima-D)
+
+![__My Octocat__](https://github.com/Sima-D/JavaProgramming/blob/master/octocat.png)
  
  
  
