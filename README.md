@@ -1,9 +1,10 @@
 # This is the project's README file
 
-## __Files__:
+## __Projects__:
  	
- - CowsBullsGame.java
- - CowsBullsGame_main.java
+ - **Cows_Bulls_Game**
+ - **Card_War_Game**
+ - **TDD (Test Driven Development using JUnit)**
  
  
 ### [__Link to the repository__](https://github.com/Sima-D/JavaProgramming)
