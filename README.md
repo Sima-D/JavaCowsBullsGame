@@ -1,4 +1,4 @@
-# This is the project's README file
+# This is the Java project's README file
 
 ## __My Java Projects__:
  	
@@ -10,7 +10,7 @@
  
 ### [__Link to whole Java repository__](https://github.com/Sima-D/JavaProgramming)
 
-### [__Link to my PROFILE__](https://github.com/Sima-D)
+### [__Link to my PROFILE__](https://github.com/Sima-D) 
 
 ![My octocat](https://github.com/Sima-D/JavaProgramming/blob/master/octocat.png)
  
